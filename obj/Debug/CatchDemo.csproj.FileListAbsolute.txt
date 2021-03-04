@@ -1,0 +1,7 @@
+C:\Users\desse\source\repos\CatchDemo\obj\Debug\CatchDemo.csprojAssemblyReference.cache
+C:\Users\desse\source\repos\CatchDemo\obj\Debug\CatchDemo.csproj.CoreCompileInputs.cache
+C:\Users\desse\source\repos\CatchDemo\bin\Debug\CatchDemo.exe.config
+C:\Users\desse\source\repos\CatchDemo\bin\Debug\CatchDemo.exe
+C:\Users\desse\source\repos\CatchDemo\bin\Debug\CatchDemo.pdb
+C:\Users\desse\source\repos\CatchDemo\obj\Debug\CatchDemo.exe
+C:\Users\desse\source\repos\CatchDemo\obj\Debug\CatchDemo.pdb
